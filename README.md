@@ -1,17 +1,38 @@
 # hello-world
-The classic test
-================
+## The classic test
+
 No really - this is a classic.
 
 However I should figure out what markdown is...
 
-Renamed the branch, but it really created a new one.
+There's **bold** and *italic*
+and automatic links https://github.com/kwstreet/hello-world
+or formatted links [hello-world](https://github.com/kwstreet/hello-world)
 
-Editing this in atom on my laptop to see how it merges in.
-Editing again directly on GitHub
-And the change appears in the local files after I sync
+There's block quotes:
+> This is a quote, but not a good one.
+> And this is the second line of the quote.
 
-This was an uncommitted change left over after the pull.
-The branch was deleted too.
+And inline code looks like this:
 
-Oh, wait! One more thing.
+`main(int argc, char** argv)`
+
+There's also a github flavor of markdown with extensions so code like this will format nicely:
+
+    def foo():
+        if not bar:
+            return True
+
+```python
+def foo():
+    if not bar:
+        return True
+```
+
+```javascript
+function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo'})
+    }
+}
+```
