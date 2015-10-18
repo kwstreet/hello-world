@@ -18,6 +18,7 @@ And inline code looks like this:
 `main(int argc, char** argv)`
 
 There's also a github flavor of markdown so code like this may format once uploaded:
+
     def foo():
         if not bar:
             return True
