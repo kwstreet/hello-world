@@ -9,3 +9,4 @@ Renamed the branch, but it really created a new one.
 
 Editing this in atom on my laptop to see how it merges in.
 Editing again directly on GitHub
+And the change appears in the local files after I sync
