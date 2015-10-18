@@ -17,8 +17,22 @@ And inline code looks like this:
 
 `main(int argc, char** argv)`
 
-There's also a github flavor of markdown so code like this may format once uploaded:
+There's also a github flavor of markdown with extensions so code like this will format nicely:
 
     def foo():
         if not bar:
             return True
+
+```python
+def foo():
+    if not bar:
+        return True
+```
+
+```javascript
+function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo'})
+    }
+}
+```
