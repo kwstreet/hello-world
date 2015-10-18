@@ -13,3 +13,5 @@ And the change appears in the local files after I sync
 
 This was an uncommitted change left over after the pull.
 The branch was deleted too.
+
+Oh, wait! One more thing.
